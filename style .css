@@ -1,0 +1,209 @@
+/* CSS Document */
+
+#wraper{
+    height: 1600px;
+    width:100%;
+
+    }
+#menu{
+        height:50px;
+        width:100%;
+       
+        background:#FFCC00;
+        
+        }
+
+        
+#banner{
+    height:700px;
+    width:100%;
+  
+     }
+#info{margin-top:20px;
+}
+#nav {	
+    background-color: #FFCC00;
+    float:left;
+    width:10%;
+    height:50px;
+    padding: 10px;
+    
+    }
+
+#nav a{
+    text-align: center;
+    color:#000000;
+    text-decoration:none;
+    }
+	
+
+#nav:hover{
+   background-color:#FFFF33;
+   }
+#nav1{	float:left;
+    width:15%;
+    height:50px;
+    text-decoration:none;
+    background-color: #FFCC00;
+     padding: 10px;
+	 
+    }
+#nav1:hover{
+   background-color:#FFFF33;
+   }
+    
+#nav1 a{
+    text-align: center;
+    color:#000000;
+    text-decoration:none;
+
+    }
+    
+
+    
+#nav2 {
+    float:left;
+    width:20%;
+    height:50px;
+    background-color: #FFCC00;
+     padding: 10px;
+    }
+#nav2:hover{
+   background-color:#FFFF33;
+   }
+    
+#nav2 a{
+    text-align:center;
+    text-decoration:none;
+    color:#000000;
+    }
+#nav3{	
+    float:left;
+    width:15%;
+    height:50px;
+    background-color: #FFCC00;
+     padding: 10px;
+    }
+#nav3:hover{
+   background-color:#FFFF33;
+   }
+#nav3 a{
+    text-align: center;
+    text-decoration:none;
+    color:#000000;
+    }
+    
+#nav4{	
+    float:left;
+    width:15%;
+    height:50px;
+    background-color: #FFCC00;
+     padding: 10px;
+    }
+#nav4:hover{
+   background-color:#FFFF33;
+   }
+#nav6{	
+    float:left;
+    width:5%;
+    height:50px;
+    background-color: #FFCC00;
+    
+    }
+	
+#nav4 a{
+    text-decoration:none;
+    color:#000000
+    }
+
+#nav5{	
+    float:left;
+    width:12%;
+    height:50px;
+    background-color: #FFCC00;
+    padding: 10px;
+   
+    }
+#nav5:hover{
+   background-color:#FFFF33;
+   }
+#nav5 a{
+    text-decoration:none;
+    color:#000000
+    }
+    
+a	{
+    color:#000000;
+    }		
+#Quran_Said{
+    height: 300px;
+    width: 22%;
+    float: left;
+    border: 1px;
+    padding: 10px;
+    margin-left: 20px;
+    
+}
+#Hadis_said{
+    height: 300px;
+    width: 22%;
+    float: left;
+    border: 1px;
+    padding: 10px;
+}
+#Benefits{
+    height: 300px;
+    width: 22%;
+    float: left;
+    border: 1px;
+    padding: 10px;
+}
+#Punishment{
+    height: 300px;
+    width: 22%;
+    float: left;
+    border: 1px;
+    padding: 10px;
+}
+
+#Person_Who_can_get_Zakat{
+    height: 300px;
+    width: 22%;
+    float: left;
+    border: 1px;
+    padding: 10px;
+    margin-left: 20px;
+}
+#The_Property_which_is_imposed_on_Zakat{
+    height: 300px;
+    width: 22%;
+    float: left;
+    border: 1px;
+    padding: 10px;
+	
+}
+
+h3{color:#FF9900}
+#Social_Impact_of_Zakat{
+    height: 300px;
+    width: 22%;
+    float: left;
+    border: 1px;
+    padding: 10px;
+}
+#Person_Who_can_not_Receive_Zakat{
+    height: 300px;
+    width: 22%;
+    float: left;
+    border: 1px;
+    padding: 10px;
+}
+#footer
+{
+    height: 100px;
+    width: 100%;
+    background-color:#FFCC00;
+}
+#footer p{
+    color:#000000;
+    text-align: center;
